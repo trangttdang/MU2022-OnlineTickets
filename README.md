@@ -12,6 +12,7 @@ Online Tickets is an app that buy/sell tickets for entertainment places such as 
 
 ## Product Spec
 1. User stories
+
 a. Must-have
 - ticket category: theaters, concerts, museum
 - individual user login, logout
@@ -38,12 +39,13 @@ b. Nice-to-have
 - tickets history: buyers see their ticket history and their accumulated points/bonus
 
 3. Navigation
-**Tab Navigation ** (Tab to Screen)
+
+a. Tab Navigator (Tab to Screen)
 - Search tab
 - Profile tab 
 - Location tab
 
-**Flow Navigation**
+b. Flow Navigation
 - Log in screen => Search/Sugestion screen
 - Sign up screen => Information filling screen
 - Search/Sugestion screen 
