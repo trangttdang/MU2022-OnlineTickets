@@ -14,3 +14,10 @@ Must-have:
 Nice-to-have
 - indivial user can see the bought ticket history
 - ticket provier can check the tickets history
+
+Screen Archetypes
+- Login
+- register
+- search ticket
+- ticket buying
+- ticket uploading
