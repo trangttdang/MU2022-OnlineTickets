@@ -49,8 +49,11 @@ b. Flow Navigation
 - Log in screen => Search/Sugestion screen
 - Sign up screen => Information filling screen
 - Search/Sugestion screen 
+
 => Buy tickets screen (when add to cart button is clicked)
+
 => My profile screen (when profile icon is clicked)
+
 - Location screen => Buy tickets screen (when icon pinned on map is clicked)
 
 ## Wireframe 
